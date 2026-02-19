@@ -69,7 +69,7 @@ import (
   "bytes"
   "encoding/binary"
   "fmt"
-  "github.com/MobRulesGames/cmwc/core"
+  "github.com/UniqueUserajs/cmwc/core"
   "math/big"
 )
 
